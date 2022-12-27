@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(210, 228, 228);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.header_div {
+    background-color: gray;
+    color:;
+}
+
+.header_div p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: dimgrey;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+.header_div h2 {
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.footer {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color:aliceblue ;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: darkslategray;
+    line-height: 2;
+}
+
+ {
+
+}
